@@ -2,8 +2,11 @@
 8/12/18 - 12:56
 Sur macbook
 
+<<<<<<< HEAD
 8/12/18 - 13:14
 Sur macbook
 
 8/12/18 - 13:17
 Sur macbook pour REVERT
+=======
+>>>>>>> parent of eb560ff... 8/12/18
